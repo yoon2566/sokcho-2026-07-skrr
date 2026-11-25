@@ -1,0 +1,7 @@
+{
+  "hero": "assets/hero.png",
+  "knight": "assets/knight.png",
+  "boss": "assets/boss.png",
+  "tiles": "assets/tiles.png",
+  "support": "assets/support.png"
+}
